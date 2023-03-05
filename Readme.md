@@ -269,5 +269,286 @@ Mình trân thành cảm ơn sự ủng hộ và đóng góp của các bạn!
       <td>Strict mode</td>
       <td>null</td>
     </tr>
+    <tr>
+      <td>51</td>
+      <td>Custom Elements</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>Data Manipulation</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>Binary Data</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>Template Literals</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>Fetch</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>Scope</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>Modules</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>Screen</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>Variable coercion/conversion</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>Destructuring assignment</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>WebSockets</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>Arrow Functions</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>Workers</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>requestAnimationFrame</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>Creational Design Patterns
+</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>Detecting browser</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>Symbols</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>Transpiling</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td> Automatic Semicolon Insertion- ASI</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>Localization</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>Geolocation</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>IndexedDB</td>
+      <td>null</td>
+    </tr>    
+    <tr>
+      <td>73</td>
+      <td>Modularization Techniques</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>Proxy</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>.postMessage() andMessageEvent</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>WeakMap</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>WeakSet</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>Escape Sequences</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>Behavioral Design Patterns</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>Server-sent events</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>Async functions (async/await)</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>Async Iterators</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>How to make iterator usable inside async callback function</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>Tail Call Optimization</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>Bitwise Operators - Real World Examples (snippets)</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>Tilde ~</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>Using JavaScript to get/set CSS custom variables</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>Selection API</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>File API, Blobs and FileReaders</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>Notifications API</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>Vibration API</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>Battery Status API</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>Fluent API</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>Web Cryptography API</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>Security issues</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>Same Origin Policy & Cross-Origin Communication</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>Error Handling</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td> Global error handling in browsers</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>Debugging</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>Unit Testing JavaScript</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>101</td>
+      <td>Evaluating JavaScript</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>102</td>
+      <td>Linters - Ensuring code quality</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>103</td>
+      <td>Anti-patterns</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>104</td>
+      <td>Performance Tips</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>105</td>
+      <td>Memory effciency</td>
+      <td>null</td>
+    </tr>
   </tbody>
 </table>
+
+## Tác giả
+<hr/>
+
+### [Mã Quốc Phong](https://www.facebook.com/profile.php?id=100040822552329 "Facebook")
